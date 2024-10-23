@@ -1,0 +1,1 @@
+# mercari-qa-test
