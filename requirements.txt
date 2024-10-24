@@ -1,0 +1,6 @@
+pytest
+requests
+pyhamcrest
+ruff
+allure-pytest==2.8.6
+allure-python-commons==2.8.6
